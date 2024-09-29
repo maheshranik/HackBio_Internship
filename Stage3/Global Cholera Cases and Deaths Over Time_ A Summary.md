@@ -1,5 +1,5 @@
 ### **Global Cholera Cases and Deaths Over Time: A Summary**
-
+Author: Mahesh Rani Kamilus
 Cholera, a severe diarrheal disease caused by *Vibrio cholerae*, has
 been a recurring global health challenge, affecting millions over time.
 Analysis of cholera cases and deaths from various countries and time
