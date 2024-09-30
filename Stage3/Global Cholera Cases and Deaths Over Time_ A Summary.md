@@ -1,10 +1,13 @@
 ### **Global Cholera Cases and Deaths Over Time: A Summary**
 Author: Mahesh Rani Kamilus
+
 Cholera, a severe diarrheal disease caused by *Vibrio cholerae*, has
 been a recurring global health challenge, affecting millions over time.
 Analysis of cholera cases and deaths from various countries and time
 periods highlights key trends and significant outbreaks across different
 regions and decades.
+
+![](./Stage3/Visualization/Bar_plot_cholera_cases_over_time_country.png)
 
 India stands out as the country with the highest number of cholera cases
 globally, accounting for over 1.29 million cases and 509,438 deaths.
