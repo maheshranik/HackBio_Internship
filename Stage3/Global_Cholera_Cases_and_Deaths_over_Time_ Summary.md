@@ -1,3 +1,5 @@
+[Link for Phase 1 Task:](https://docs.google.com/document/d/1JU6qm7xsHk7SqXTsBVyRLTRVsQeSmfU-xO7DpOwHzyk/edit?usp=sharing)
+
 ### **Global Cholera Cases and Deaths Over Time: A Summary**
 Author: Mahesh Rani Kamilus
 
@@ -113,3 +115,4 @@ Total Estimated Deaths (1950-2022): \~165,000
 
 Overall CFR (1950-2022): \~3.7%
 
+[R_Scripts for phase2  and Phase1 outputs:](https://github.com/maheshranik/HackBio_Internship/tree/main/Stage3/)
