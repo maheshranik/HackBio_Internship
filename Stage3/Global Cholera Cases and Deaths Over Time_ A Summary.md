@@ -18,7 +18,7 @@ leading to 795,794 cases and 9,411 deaths. Countries like Mozambique,
 Nigeria, Somalia, Bangladesh, and Afghanistan also reported substantial
 case numbers, making them critical regions in the global cholera burden.
 
-![](./Visualization/Top 10 Countries with Most Cholera Cases.png)
+![](./Visualization/Top_10_Countries_with_Most_Cholera_Cases.png)
 
 In terms of yearly trends, 1991 was a critical year for cholera,
 recording 595,331 cases and 19,302 deaths. This period saw one of the
@@ -28,6 +28,8 @@ cases). These spikes in cholera incidence were primarily driven by
 large-scale epidemics across several countries, particularly in
 developing regions with poor sanitation and limited access to clean
 water.
+
+![](./Visualization/Significant_Cholera_Death_Years_Top_10%_Deaths.png)
 
 One remarkable observation is the high fatality rate (CFR) in the early
 years. In 1953, cholera claimed 141,173 lives from 240,927 reported
