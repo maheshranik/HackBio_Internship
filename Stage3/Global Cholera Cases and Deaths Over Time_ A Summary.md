@@ -7,7 +7,7 @@ Analysis of cholera cases and deaths from various countries and time
 periods highlights key trends and significant outbreaks across different
 regions and decades.
 
-![](./Stage3/Visualization/Bar_plot_cholera_cases_over_time_country.png)
+![](./Visualization/Bar_plot_cholera_cases_over_time_country.png)
 
 India stands out as the country with the highest number of cholera cases
 globally, accounting for over 1.29 million cases and 509,438 deaths.
@@ -17,6 +17,8 @@ experienced a massive cholera epidemic after the 2010 earthquake,
 leading to 795,794 cases and 9,411 deaths. Countries like Mozambique,
 Nigeria, Somalia, Bangladesh, and Afghanistan also reported substantial
 case numbers, making them critical regions in the global cholera burden.
+
+![](./Visualization/Top 10 Countries with Most Cholera Cases.png)
 
 In terms of yearly trends, 1991 was a critical year for cholera,
 recording 595,331 cases and 19,302 deaths. This period saw one of the
