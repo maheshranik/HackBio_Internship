@@ -29,12 +29,15 @@ large-scale epidemics across several countries, particularly in
 developing regions with poor sanitation and limited access to clean
 water.
 
-![](./Visualization/Significant_Cholera_Death_Years_Top_10%_Deaths.png)
+![](./Visualization/Significant_Cholera_Death_Years_Top_10percent_Deaths.png)
 
 One remarkable observation is the high fatality rate (CFR) in the early
 years. In 1953, cholera claimed 141,173 lives from 240,927 reported
 cases, resulting in a case fatality rate of 65.2%. The 1950s and early
 1960s were marked by particularly high death rates, often exceeding 50%.
+
+![](./Visualization/Cholera_Case_Fatality_Rate_CFR_Over_Time.png)
+
 However, global efforts in disease management, improved healthcare
 access, and advancements in sanitation have led to a steady decline in
 cholera-related deaths from the 1960s onward. By the 1990s and 2000s,
@@ -42,6 +45,8 @@ the death toll started to reduce significantly, even though the number
 of reported cases remained high in some years. For example, in 1998,
 298,750 cases were reported, but the number of deaths was 10,832,
 reflecting a much lower fatality rate.
+
+![](./Visualization/Lineplot_Cholera_Cases_and_Deaths_Over_Time.png)
 
 In conclusion, while cholera remains a persistent global health threat,
 especially in countries with poor sanitation infrastructure, there has
