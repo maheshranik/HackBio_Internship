@@ -1,0 +1,7 @@
+Tools used in NGS pipeline:
+1. BWA (for alignment)
+2. Samtools (for BAM conversion and sorting)
+3. Bcftools (for variant calling and filtering)
+4. FastQC (for quality check of reads)
+5. Fastp (for read trimming)
+6. BBTools (for read repair)
